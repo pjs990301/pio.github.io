@@ -5,7 +5,7 @@ category: International Journals
 permalink: /publication/2024-01-11-Meta-transformer:%20A%20meta-learning%20framework%20for%20scalable%20automatic%20modulation%20classification
 date: 2024-01-11
 excerpt: 'This paper proposes Meta-Transformer, a meta-learning-based AMC framework using few-shot learning and transformer-based encoders to achieve high performance and scalability with unseen modulations.'
-venue: 'IEEE Access'
+venue: 'IEEE Access (IF=3.4/Q2)'
 paperurl: '../files/publications/International Journals/Meta-Transformer_A_Meta-Learning_Framework_for_Scalable_Automatic_Modulation_Classification.pdf'
 author: 'Jungik Jang, <b>Jisung Pyo</b>, Young-Il Yoon, Jaehyuk Choi'
 ---
