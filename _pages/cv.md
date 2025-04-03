@@ -37,7 +37,7 @@ Awards
 [//]: # (  * 수여 기관: SDN/NFV포럼)
   
 * 동상 (후원기업상) - 2023.12.01
-  * 2023년 공개SW개발자대회에서 'MoWA(Monitoring the elder with Wi-Fi and AI)' 개발을 통해 입상하여 동상(후원기업상) 수상
+  * 2023년 공개SW 개발자대회에서 'MoWA(Monitoring the elder with Wi-Fi and AI)' 개발을 통해 입상하여 동상(후원기업상) 수상
 
 [//]: # (  * 수여 기관: &#40;주&#41;티지)
 
