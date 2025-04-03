@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in chool of Computing(Artificial Intelligence), Gachon University, 2024.03 - Present
+* M.S. in School of Computing(Artificial Intelligence), Gachon University, 2024.03 - Present
   * GPA: 4.43 / 4.5
   * Advisor: Prof. Jaehyuk Choi
   * Lab: [Intelligent Networking and Computing Lab (INCLab)](https://sites.google.com/gachon.ac.kr/inclab/)
@@ -58,6 +58,7 @@ Skills
 * IDEs: IntelliJ IDEA, PyCharm, VS Code
 * OS: Windows, Linux, macOS
 * Embedded: Arduino, Raspberry Pi, ESP32
+
 
 Publications
 ======
