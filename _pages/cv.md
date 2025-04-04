@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* M.S. in School of Computing(Artificial Intelligence), Gachon University, 2024.03 - Present
+* M.S. in School of Computing (Artificial Intelligence), Gachon University, 2024.03 - Present
   * GPA: 4.43 / 4.5
   * Advisor: Prof. Jaehyuk Choi
   * Lab: [Intelligent Networking and Computing Lab (INCLab)](https://sites.google.com/gachon.ac.kr/inclab/)
-* B.S. in School of Computing(Software), Gachon University, 2018.03 - 2024.02
+* B.S. in School of Computing (Software), Gachon University, 2018.03 - 2024.02
   * GPA: 3.84 / 4.5 (Major GPA: 3.96 / 4.5)
 
 Certificates
 ======
-* TOPCIT (435 / Level 3) - Oct 2022
+* TOPCIT (435 / Level 3) - 2022.10.29
 * 정보처리기능사 - 2019.07.18
 * TOEIC Speaking (Intermediate Mid 1) - 2025.03.12
 
@@ -47,7 +47,7 @@ Research Projects
 * SDR 기반 차세대 통신 시스템 최적화 연구 (LIG넥스원), 2023.07.01 ~ 2024.02.23
 * IoT 정밀측위기술 및 공간분석이론을 적용한 유아교육 공간과 유아 행동 및 발달에 대한 융합연구 (한국연구재단, 일반공동연구지원), 2022.10.01 ~ 2023.06.30
 
-Skills
+Technical Skills
 ======
 * Languages: Python, Java, C/C++
 * Machine Learning: PyTorch, TensorFlow, Scikit-learn, Meta Learning
