@@ -2,7 +2,6 @@
 title: "Wi-Filter: WiFi-Assisted Frame Filtering on the Edge for Scalable and Resource-Efficient Video Analytics"
 collection: publications
 category: International Journals
-permalink: /publication/2025-01-24-Wi-Filter%20WiFi-Assisted%20Frame%20Filtering%20on%20the%20Edge%20for%20Scalable%20and%20Resource-Efficient%20Video%20Analytics
 date: 2025-01-24
 excerpt: 'Wi-Filter leverages Wi-Fi CSI and lightweight models for dynamic frame filtering at the edge, enabling resource-efficient and scalable video analytics.'
 venue: 'MDPI Sensors'

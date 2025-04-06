@@ -2,7 +2,6 @@
 title: "Towards Scalable Automatic Modulation Classification via Meta-Learning"
 collection: publications
 category: International Conferences
-permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper presents a scalable automatic modulation classification (AMC) scheme based on meta-learning and few-shot learning, enabling flexible recognition of unseen modulations with minimal data.'
 date: 2023-10-30
 venue: 'MILCOM 2023-2023 IEEE Military Communications Conference (MILCOM)'

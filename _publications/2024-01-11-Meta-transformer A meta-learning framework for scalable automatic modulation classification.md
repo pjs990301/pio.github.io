@@ -2,7 +2,6 @@
 title: "Meta-transformer: A meta-learning framework for scalable automatic modulation classification"
 collection: publications
 category: International Journals
-permalink: /publication/2024-01-11-Meta-transformer:%20A%20meta-learning%20framework%20for%20scalable%20automatic%20modulation%20classification
 date: 2024-01-11
 excerpt: 'This paper proposes Meta-Transformer, a meta-learning-based AMC framework using few-shot learning and transformer-based encoders to achieve high performance and scalability with unseen modulations.'
 venue: 'IEEE Access'
